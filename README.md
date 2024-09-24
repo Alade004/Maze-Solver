@@ -1,9 +1,9 @@
 ## Overview
-This is a java program called the maze solving system. The code will load a maze for the file and solve the maze. The program utilizes a maze solving system based on the Stack data structure.
+This is a Java program called the maze-solving system. The code will load a maze for the file and solve the maze. The program utilizes a maze-solving system based on the Stack data structure.
 
 ## Usage
 To use the Maze Solver, follow these steps:
-1. Compile the java program using the following command:
+1. Compile the Java program using the following command:
     javac *.java
 2. Run the program with the desired maze file you want 
     ex: java Maze maze.txt
