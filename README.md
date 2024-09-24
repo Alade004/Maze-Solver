@@ -1,4 +1,4 @@
-s## Overview
+## Overview
 This is a Java program called the maze-solving system. The code will load a maze for the file and solve the maze. The program utilizes a maze-solving system based on the Stack data structure.
 
 ## Usage
