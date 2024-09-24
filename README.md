@@ -1,4 +1,4 @@
-## Overview
+s## Overview
 This is a Java program called the maze-solving system. The code will load a maze for the file and solve the maze. The program utilizes a maze-solving system based on the Stack data structure.
 
 ## Usage
@@ -14,28 +14,7 @@ To use the Maze Solver, follow these steps:
 1. java Maze maze.txt
 
 # Ouput: 
-
-+-----+-----+-----+
-|                 |
-|              F  |
-|                 |
-+     +-----+-----+
-|                 |
-|        S        |
-|                 |
-+-----+-----+-----+
-
-solution displayed:
-
-+-----+-----+-----+
-|                 |
-|  *     *     F  |
-|                 |
-+     +-----+-----+
-|                 |
-|  *     S        |
-|                 |
-+-----+-----+-----+
+![Screenshot 2024-09-23 at 9 18 31 PM](https://github.com/user-attachments/assets/079bc29c-5602-4a2e-ae56-fb0c3086202d)
 
 
 ## Prompt
